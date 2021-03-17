@@ -23,7 +23,7 @@ My name is Dung Bui Tri. I'm a student in Computer Science major.
 - 🌱 I have experiences with ```C++``` ```Python``` ```Java``` ```Scala``` ```Kotlin``` ```Kotlin```       
 - 🌱 I have basic knowledge in ```Competitive programming``` `Object-Oriented Programming` ```Machine learning``` ```Artificial Intelligence```    
 - 🌱 Contact me via:   
-  +  📫 Facebook: [Tan Pham Ngoc](https://www.facebook.com/TDung2116/)
+  +  📫 Facebook: [Dung Tri](https://www.facebook.com/TDung2116/)
   +  📫 Mail: [19521386@gm.uit.edu.vn](mailto:19521386@gm.uit.edu.vn) or [btrdung1621@gmail.com](mailto:btrdung1621@gmail.com)   
 
 
