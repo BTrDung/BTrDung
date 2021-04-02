@@ -24,6 +24,6 @@ My name is Dung Bui Tri. I'm a student in Computer Science major.
 - 🌱 I have basic knowledge in ```Competitive programming``` `Object-Oriented Programming` ```Machine learning``` ```Artificial Intelligence```    
 - 🌱 Contact me via:   
   +  📫 Facebook: [Dung Tri](https://www.facebook.com/TDung2116/)
-  +  📫 Mail: [19521386@gm.uit.edu.vn](mailto:19521386@gm.uit.edu.vn) or [btrdung1621@gmail.com](mailto:btrdung1621@gmail.com)   
+  +  📫 Mail: [19521386@gm.uit.edu.vn](mailto:19521386@gm.uit.edu.vn) or [btridung1621@gmail.com](mailto:btridung1621@gmail.com)   
 
 
