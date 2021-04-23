@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I have basic knowledge in ```Competitive programming``` `Object-Oriented Programming` ```Machine learning``` ```Artificial Intelligence```    
 - 🌱 Contact me via:   
   +  📫 Facebook: [Dung Tri](https://www.facebook.com/TDung2116/)
-  +  📫 Mail: [19521386@gm.uit.edu.vn](mailto:19521386@gm.uit.edu.vn) or [btridung1621@gmail.com](mailto:btridung1621@gmail.com)   
+  +  📫 : [19521386@gm.uit.edu.vn](mailto:19521386@gm.uit.edu.vn) or [btridung1621@gmail.com](mailto:btridung1621@gmail.com)   
 -->
 
 ### Welcome - Bienvenue - Herzlich willkommen 👋👋👋   
@@ -33,8 +33,8 @@ My name is Dung Bui Tri. I'm a student in Computer Science major.
 - 🌱 I’m currently learning Computer Science at [University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)   
 - 🌱 I have basic knowledge in ```Competitive programming``` `Object-Oriented Programming` ```Machine learning``` ```Artificial Intelligence```   
 - 🌱 Contact me via:   
-  +  📫 Facebook: [Dung Tri](https://www.facebook.com/TDung2116/)
-  +  📫 Mail: [19521386@gm.uit.edu.vn](mailto:19521386@gm.uit.edu.vn) or [btridung1621@gmail.com](mailto:btridung1621@gmail.com)   
+  +  📫 [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](): [Dung Tri](https://www.facebook.com/TDung2116/)
+  +  📫 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](): [19521386@gm.uit.edu.vn](mailto:19521386@gm.uit.edu.vn) or [btridung1621@gmail.com](mailto:btridung1621@gmail.com)   
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BTrDung&show_icons=true&count_private=true)  
 
