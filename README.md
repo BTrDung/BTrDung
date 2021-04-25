@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 -->
 
 ### Welcome - Bienvenue - Herzlich willkommen 👋👋👋   
-   
+
+![Profile views](https://gpvc.arturio.dev/BTrDung)  
+
 My name is Dung Bui Tri. I'm a student in Computer Science major.   
 
 - 🌱 I have experiences with ```C++``` ```Python``` ```Java``` ```Scala``` ```Kotlin``` ```Kotlin```       
-
-![Profile views](https://gpvc.arturio.dev/BTrDung)  
 
 - 🌱 I’m currently working on as Member of Publication at [Developer Student Club - University of Information Technology](https://dsc.community.dev/university-of-information-technology-vnu-hcm) 
 - 🌱 I’m currently learning Computer Science at [University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)   
