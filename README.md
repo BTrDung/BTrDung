@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 My name is Dung Bui Tri. I'm a student in Computer Science major.   
 
-- 🌱 I have experiences with ```C++``` ```Python``` ```Java``` ```Scala``` ```Kotlin``` ```Kotlin```       
+- 🌱 I have experiences with ```C++``` ```Python``` ```Java``` ```Scala``` ```Kotlin```     
 
 - 🌱 I’m currently working on as Member of Publication at [Developer Student Club - University of Information Technology](https://dsc.community.dev/university-of-information-technology-vnu-hcm) 
 - 🌱 I’m currently learning Computer Science at [University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)   
