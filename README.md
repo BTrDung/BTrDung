@@ -36,7 +36,7 @@ My name is Dung Bui Tri. I'm a student in Computer Science major.
   +  📫 [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/TDung2116/): [Dung Tri](https://www.facebook.com/TDung2116/)
   +  📫 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](btridung1621@gmail.com): [19521386@gm.uit.edu.vn](mailto:19521386@gm.uit.edu.vn) or [btridung1621@gmail.com](mailto:btridung1621@gmail.com)   
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BTrDung&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BTrDung)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BTrDung&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BTrDung)  
 
